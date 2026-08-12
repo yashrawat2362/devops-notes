@@ -14,7 +14,7 @@ Think of them like **three competing supermarkets** — they all sell similar th
 |---|---|---|---|
 | **AWS** (Amazon Web Services) | Amazon | 2006 | #1 — Largest market share, most mature, most services |
 | **Azure** | Microsoft | 2010 | #2 — Strong in enterprises already using Microsoft tools |
-| **GCP** (Google Cloud Platform) | 2008 | #3 — Strong in data/AI, Kubernetes, and developer-friendly tools |
+| **GCP** (Google Cloud Platform) | Google | 2008 | #3 — Strong in data/AI, Kubernetes, and developer-friendly tools |
 
 ---
 
